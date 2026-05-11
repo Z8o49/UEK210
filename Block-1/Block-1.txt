@@ -1,0 +1,89 @@
+Block 1
+
+Aufgabe 1.1
+
+Wie wird der Begriff „Cloud“ definiert?
+Cloud Computing ist ein Modell, das jederzeitigen, einfachen Netzwerkzugriff auf gemeinsam genutzte, flexibel bereitstellbare IT‑Ressourcen ermöglicht.
+
+
+Welche fünf Merkmale (Essential Characteristics) einer Cloud gibt es?
+1. 	On‑demand self‑service - IT-Ressourcen anfordern jederzeit 	selbständig.
+
+2. 	Broad network Access - Dienste über Internet von verschiedenen 	Geräten erreichbar.
+
+3. 	Resource pooling -  Die Serverkapazitäten werden gebündelt in einer 	einheitlichen Cloud zur Verfügung gestellt.
+
+4.      Rapid elasticity - Die zur Verfügung stehenden Ressourcen werden 	angepasst und es entsteht der Eindruck eines unbegrenzten 	Speicherplatzes.
+
+5.      Measured service - Überwachung des Dienstes: Die einzelnen Cloud-	Server werden immer wieder überwacht und optimiert.
+
+Welche Cloud Deployment Modelle gibt es?
+1. 	Private Cloud - eigenes Rechenzentrum, volle Kontrolle 	Infrastruktur
+
+2. 	Community Cloud - mehrere Firmen zusammen eine Cloud, 	unterschiedliche Einzelpersonen und Gruppen
+
+3.      Public Cloud - geteiltes Rechenzentrum, keine Kontrolle 	Infrastruktur
+	
+4.      Hybrid Cloud - Mischung aus Public- und Private-Cloud Anbietern
+	
+
+Was sind Cloud Service Modelle?
+- On premises - alles selber gekauft, installiert, verwaltet und gewartet
+
+- Software as a Service (SaaS) - gesamte Applikation von Anbieter zur         Verfügung gestellt (Google Docs, Dropbox, K-Suite)
+
+- Platform as a Service (PaaS) - Applikation selber verwaltet, Laufzeitumgebung vom Anbieter
+
+- Infrastructure as a Service (IaaS) - Physischer Server von Provider, BS und Software selber verwaltet
+
+- Function as a Service (FaaS) - Laufzeitumgebung und Middleware von Anbieter und eigentliche Funktion selber verwaltet
+
+Aufgabe 1.2
+Welche Cloud Dienstleistungen kennen Sie?
+Fotos und andere Daten in einer Cloud speichern, Backups in der Cloud speichern, Server
+
+Welche Cloud Anbieter kennen Sie?
+ICloud, google Cloud, DropBox
+
+Was ist der wesentliche Unterschiede zwischen Monitoring und Logging in der Cloud?
+
+Losging: 
+Sammelt detaillierte, zeitgestempelte Ereignisse die im System auftreten, wie Fehlermeldungen, API Aufrufe und Sicherheitsereignisse . Gebrauch bei Fehleranalysen, Sicherheitsüberwachung und Nachvollziehbarkeit (Auditing)
+
+
+Monitoring: 
+Misst laufend den Zustand und die Performance eines Systems, wie CPU Auslastung, Speicherverbrauch und Antwortzeiten
+
+Warum sollte man Dienste aus der Cloud beziehen? – Die Vorteile
+Skalierbarkeit und Elastizität - Cloud Ressourcen passen sich automatisch der Nachfrage an
+
+Kostenmodell: Pay as you Go - Du zahlst nur das was du wirklich nutzt.
+
+Hohe Verfügbarkeit und Reichweite - Cloud Provider betreiben Rechenzentren weltweit, was Ausfallsicherheit und Performance verbessert
+
+Automatisierung und moderne Technologie - Auto Scaling, Infrastructure as Code, Serverless Computing, Managed Services -> reduziert aufwand
+
+Sicherheit auf Enterprise Niveau
+
+Was sind die Nachteile der Cloud?
+Abhängigkeit vom Anbieter -  Sobald man tief in den Services eines Providers eingebaut ist, wechsel schwierig und teuer
+
+Datenschutz & Compliance - Dateb in einem anderen Rechenzerntrum, Zugriff durch dritte
+
+Laufende Kosten können steigen - schlecht optimierte Clouds können teuer werden
+
+Internetabhängigkeit - Ohne Internet kein Zugriff
+
+Weniger Kontrolle - nicht bestimmen welche Hardware genutzt wird, wie sie konfiguriert ist, wann updates eingespielt werden
+
+
+Was beschreibt das Konzept der "Shared Responsibility" (geteilte Verantwortung) im Kontext der Nutzung von Public Cloud Diensten?
+- Der Cloud‑Provider ist verantwortlich für die Sicherheit der Cloud.
+- Der Kunde ist verantwortlich für die Sicherheit in der Cloud.
+
+
+
+
+
+
+
